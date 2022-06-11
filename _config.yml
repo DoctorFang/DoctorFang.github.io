@@ -47,7 +47,7 @@ round-avatar: false
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  google-scholar: yfVFQTEAAAAJ
+  google-scholar: citations?user=yfVFQTEAAAAJ
   email: "ying22107@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: daattali
