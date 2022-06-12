@@ -1,16 +1,25 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: My Story
+subtitle: professionally and personally
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Ying Fang. I grew up in Wuhu, China, and have spent the last 10ish years in the United States. I am currently a postdoc at Northern Arizona University. This website is for sharing my academic and personal experiences, which include:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Research in Biomechanics, engineering, and health science
+- Thoughts on being in academics
+- Part-time passion: rock climbing!
 
-What else do you need?
 
-### My story
+### Research
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My research has always been around Biomechanics. There are many sub-fields within Biomechanics, such as how to build an artificial ligament that mimics biological tissue, how an owl fly silently, etc. What I focus on is to understand how people move, and change how people move to improve performance and prevent injuries. 
+"outline.jpg"
+
+### Academic Life
+
+
+
+
+
+### Rock Climbing
