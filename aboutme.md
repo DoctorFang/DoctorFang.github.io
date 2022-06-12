@@ -1,6 +1,7 @@
 ---
 layout: page
 title: My Story
+subtitle:
 researchoutline:
   - link: /assets/img/outline.jpg
 	alt: Ying research outline
