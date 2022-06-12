@@ -1,7 +1,11 @@
 ---
 layout: page
 title: My Story
-subtitle: professionally and personally
+researchoutline:
+  - link: /img/outline.jpg
+	alt: Ying research outline
+    caption: "Research Overview"
+# subtitle: professionally and personally
 ---
 
 My name is Ying Fang. I grew up in Wuhu, China, and have spent the last 10ish years in the United States. I am currently a postdoc at Northern Arizona University. This website is for sharing my academic and personal experiences, which include:
@@ -13,13 +17,13 @@ My name is Ying Fang. I grew up in Wuhu, China, and have spent the last 10ish ye
 
 ### Research
 
-My research has always been around Biomechanics. There are many sub-fields within Biomechanics, such as how to build an artificial ligament that mimics biological tissue, how an owl fly silently, etc. What I focus on is to understand how people move, and change how people move to improve performance and prevent injuries. 
+My research aims to understand and modify how people move to improve performance and prevent injuries. This applies to the ones with disabilities, elderly population, athletes, and sometimes myself!
 
-![Research outline](outline.jpg)
+{% include image-grid.html images=page.researchoutline class="col-xs-12" %}
 
 ### Academic Life
 
-
+I had a pretty winding path throughout my education/academic career. Starting with a bacheler's degree 
 
 
 
