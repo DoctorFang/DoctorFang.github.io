@@ -66,6 +66,9 @@
             {% if include.type == "page" %}
               <hr class="small">
               <span class="{{ include.type }}-subheading">{{ page.subtitle | strip_html }}</span>
+			 {% elsif include.type == "home" %}
+              <hr class="small">
+              <span class="{{ include.type }}-subheading"><a href='{{ page.subtitle-link | strip_html }}'>{{ page.subtitle | strip_html }}</a></span>
             {% else %}
               <h2 class="{{ include.type }}-subheading">{{ page.subtitle | strip_html }}</h2>
             {% endif %}
