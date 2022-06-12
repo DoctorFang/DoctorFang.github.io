@@ -1,7 +1,6 @@
 ---
 layout: page
 title: My Story
-subtitle: Hello? 
 ---
 
 My name is Ying Fang. I grew up in Wuhu, China, and have spent the last 10ish years in the United States. I am currently a postdoc at Northern Arizona University. This website is for sharing my academic and personal experiences, which include:
