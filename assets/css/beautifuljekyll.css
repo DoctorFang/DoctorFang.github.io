@@ -1100,3 +1100,7 @@ pre {
     display: inline-block;
   }
 }
+
+.nav-item.dropdown.show {
+	width: 125px;
+}
