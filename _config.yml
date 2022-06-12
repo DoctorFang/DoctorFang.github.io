@@ -14,14 +14,18 @@ author: Ying Fang
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me:
+    - CV: "aboutme"
   Research: 
-    - Biomechanics: "ResearchProject"
-    - Robotics: "Robotics"
+    - Current: "ResearchProject"
+    - Previous: "ResearchProject"
+    - Future: "Robotics"
+  Publications: "aboutme"
+  News: "aboutme"
+  Interests: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 collections:
     pages:
@@ -32,10 +36,10 @@ collections:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/PXL_20210207_004935955.PORTRAIT.jpg"
+avatar: "/assets/img/IMG_0838_2.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: false
+round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
