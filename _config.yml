@@ -15,7 +15,7 @@ author: Ying Fang
 
 navbar-links:
   About Me:
-    - CV: "aboutme"
+    - CV: "061222_YF_CV.pdf"
   Research: 
     - Current: "ResearchProject"
     - Previous: "ResearchProject"
@@ -52,7 +52,7 @@ round-avatar: true
 social-network-links:
   google-scholar: citations?user=yfVFQTEAAAAJ
   email: "ying22107@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  rss: false  # remove this line if you don't want to show an RSS link at the bottom
   github: doctor-fang
   twitter: daattali
   #patreon: DeanAttali
@@ -87,8 +87,8 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
-  linkedin: true
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
@@ -114,7 +114,7 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#FFDAC1"
+navbar-col: "#A3E1DC"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
