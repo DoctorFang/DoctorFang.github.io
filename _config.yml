@@ -35,7 +35,7 @@ collections:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/IMG_0838_2.jpg"
+avatar: "/assets/img/IMG_0838_2_1.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -53,7 +53,7 @@ social-network-links:
   google-scholar: citations?user=yfVFQTEAAAAJ
   email: "ying22107@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: daattali
+  github: doctor-fang
   twitter: daattali
   #patreon: DeanAttali
   #youtube: c/daattali
@@ -114,7 +114,7 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#20c997"
+navbar-col: "#FFDAC1"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
