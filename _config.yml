@@ -16,16 +16,16 @@ author: Ying Fang
 navbar-links:
   About Me:
     - My Story: "aboutme"
-    - CV: "061222_YF_CV.pdf"
+    - CV: "docs/pdf/061222_YF_CV.pdf"
   Research: 
-    - Current: "ResearchProject"
-    - Previous: "ResearchProject"
-    - Future: "Robotics"
-  Publications: "aboutme"
-  News: "aboutme"
+    - Current: "currentProject"
+    - Previous: "pastProject"
+  Publications: "papers"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Research: "currentProject"
+    - Career: "currentProject"
+    - Life: "currentProject"
+    - Climbing: "currentProject"
 
 collections:
     pages:
