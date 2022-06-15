@@ -21,11 +21,13 @@ navbar-links:
     - Current: "currentProject"
     - Previous: "pastProject"
   Publications: "papers"
-  Resources:
-    - Research: "currentProject"
+  Notes:
     - Career: "currentProject"
     - Life: "currentProject"
-    - Climbing: "currentProject"
+  Resources:
+    - Science: "currentProject"
+    - Code: "currentProject"
+    - Climb: "currentProject"
 
 collections:
     pages:
