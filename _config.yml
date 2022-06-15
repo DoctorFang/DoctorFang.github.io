@@ -16,7 +16,7 @@ author: Ying Fang
 navbar-links:
   About Me:
     - My Story: "aboutme"
-    - CV: "docs/pdf/061222_YF_CV.pdf"
+    - CV: "061222_YF_CV.pdf"
   Research: 
     - Current: "currentProject"
     - Previous: "pastProject"
