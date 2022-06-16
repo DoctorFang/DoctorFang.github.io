@@ -32,7 +32,7 @@ h1,h2,h3,h4,h5,h6 {
   line-height: 1.1;
 }
 h1 {
-  font-size: 2.25rem;
+  font-size: 2rem;
 }
 h2 {
   font-size: 1.875rem;
@@ -61,7 +61,7 @@ blockquote p:first-child {
   margin-top: 0;
 }
 hr.small {
-  max-width: 6.25rem;
+  max-width: 7 rem;
   margin: 1rem auto;
   border-width: 0.25rem;
   border-color: inherit;
