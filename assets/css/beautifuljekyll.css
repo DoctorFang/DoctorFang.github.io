@@ -61,7 +61,7 @@ blockquote p:first-child {
   margin-top: 0;
 }
 hr.small {
-  max-width: 7 rem;
+  max-width: 20 rem;
   margin: 1rem auto;
   border-width: 0.25rem;
   border-color: inherit;
