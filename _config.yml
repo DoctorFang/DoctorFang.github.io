@@ -18,8 +18,12 @@ navbar-links:
     - My Story: "aboutme"
     - CV: "061422_YF_CV.pdf"
   Research: 
-    - Current: "currentProject"
-    - Previous: "pastProject"
+    - Rehabilitation:
+        - Mobility: "currentProject"
+    - Orthopedics:
+        - Bone: "currentProject"
+        - Joint: "currentProject"
+    - Healthy Aging: "pastProject"
   Publications: "papers"
   Notes:
     - Career: "currentProject"
