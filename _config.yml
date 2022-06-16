@@ -18,12 +18,9 @@ navbar-links:
     - My Story: "aboutme"
     - CV: "061422_YF_CV.pdf"
   Research: 
-    - Rehabilitation:
-        - Mobility: "currentProject"
-    - Orthopedics:
-        - Bone: "currentProject"
-        - Joint: "currentProject"
-    - Healthy Aging: "pastProject"
+    - Rehabilitation:"currentProject"
+    - Orthopedics: "ortho"
+    - Healthy Aging: "currentProject"
   Publications: "papers"
   Notes:
     - Career: "currentProject"
@@ -93,7 +90,7 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: false
   linkedin: false
   vk: false
