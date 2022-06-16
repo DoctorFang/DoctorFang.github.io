@@ -21,33 +21,33 @@ Orekhov, G., **Fang, Y.**, Cuddeback, C.F., Lerner, Z.F. [Usability and Performa
 
 **Fang, Y.**, Lerner, Z.F. [Augmenting Ankle Exoskeleton Walking Performance with Step Length Biofeedback in Individuals with Cerebral Palsy.](https://drive.google.com/file/d/1Zraae-zH1Qda3tR6w1-pRY3J48kzaBhA/view?usp=sharing) IEEE Transactions on Neural Systems and Rehabilitation Engineering
 
-Deng, L., Yang, Y., Yang, C., **Fang, Y.**, Zhang, X., Liu, L., Fu, W. [**Compression Garments Reduce Soft Tissue Vibrations and Muscle Activations during Drop Jumps: An Accelerometry Evaluation.**](https://drive.google.com/file/d/1Zraae-zH1Qda3tR6w1-pRY3J48kzaBhA/view?usp=sharing) Sensors.
+Deng, L., Yang, Y., Yang, C., **Fang, Y.**, Zhang, X., Liu, L., Fu, W. [Compression Garments Reduce Soft Tissue Vibrations and Muscle Activations during Drop Jumps: An Accelerometry Evaluation.](https://drive.google.com/file/d/1Zraae-zH1Qda3tR6w1-pRY3J48kzaBhA/view?usp=sharing) Sensors.
 
-**Fang, Y.**, Morse, L.R., Nguyen, N., Battaglino, R.A., Goldstein, R., Troy, K.L. [**Functional Electrical Stimulation (FES) Assisted Rowing Combined with Zoledronic Acid, but Not Alone, Preserves Distal Femur Strength and Stiffness in People with Chronic Spinal Cord Injury.**] Osteoporosis International.
+**Fang, Y.**, Morse, L.R., Nguyen, N., Battaglino, R.A., Goldstein, R., Troy, K.L. [Functional Electrical Stimulation (FES) Assisted Rowing Combined with Zoledronic Acid, but Not Alone, Preserves Distal Femur Strength and Stiffness in People with Chronic Spinal Cord Injury.](https://drive.google.com/file/d/12Np8t_3UADia5gEpQ_0sNO3GvD7fLEUa/view?usp=sharing) Osteoporosis International.
 
-**Fang, Y.**, Troy, K.L. [**Effect of Adapted Ergometer Setup and Rowing Speed on Lower Extremity Loading in People with and without Spinal Cord Injury.**] medRxiv (non-peer reviewed).
+**Fang, Y.**, Troy, K.L. [Effect of Adapted Ergometer Setup and Rowing Speed on Lower Extremity Loading in People with and without Spinal Cord Injury.](https://drive.google.com/file/d/1MK8jL9epdITQzy4WEnQGa1uyShb0lG1K/view?usp=sharing) medRxiv (non-peer reviewed).
 
 ## 2020
 
-**Fang, Y.**, Orekhov, G., Lerner, Z.F. [**Adaptive Ankle Exoskeleton Gait Training Demonstrates Acute Neuromuscular and Spatiotemporal Benefits for Individuals with Cerebral Palsy.**] Gait & Posture.
+**Fang, Y.**, Orekhov, G., Lerner, Z.F. [Adaptive Ankle Exoskeleton Gait Training Demonstrates Acute Neuromuscular and Spatiotemporal Benefits for Individuals with Cerebral Palsy.](https://drive.google.com/file/d/1eXigMNTdMOHbyOg6BE7nQpmf-Zk2a7hJ/view?usp=sharing) Gait & Posture.
 
-Orekhov, G., **Fang, Y.**, Luque, J. Lerner, Z.F. [**Ankle Exoskeleton Assistance Can Improve Over-Ground Walking Economy in Individuals With Cerebral Palsy.**] IEEE Transactions on Neural Systems and Rehabilitation Engineering.
+Orekhov, G., **Fang, Y.**, Luque, J. Lerner, Z.F. [Ankle Exoskeleton Assistance Can Improve Over-Ground Walking Economy in Individuals With Cerebral Palsy.](https://drive.google.com/file/d/1eXigMNTdMOHbyOg6BE7nQpmf-Zk2a7hJ/view?usp=sharing) IEEE Transactions on Neural Systems and Rehabilitation Engineering.
 
 ## 2013 ~ 2019
 
-Morse, L.R., Troy, K.L. **Fang, Y.**, Nguyen, N., Battaglino, R.A., Goldstein, R., Zafonte, R., Gupta, R., Taylor, J.A. [**Combination Therapy with Zoledronic Acid and FES-row Training Reduces Bone Loss in the Paralyzed Legs: Results of a Randomized Comparative Clinical Trial.**] J of Bone and Mineral Research, 2019.
+Morse, L.R., Troy, K.L. **Fang, Y.**, Nguyen, N., Battaglino, R.A., Goldstein, R., Zafonte, R., Gupta, R., Taylor, J.A. [Combination Therapy with Zoledronic Acid and FES-row Training Reduces Bone Loss in the Paralyzed Legs: Results of a Randomized Comparative Clinical Trial.](https://drive.google.com/file/d/1iWKiK1Sea8Ge4oaFQC0trLJLKdR1Gvpj/view?usp=sharing) J of Bone and Mineral Research, 2019.
 
-Yang, Y., **Fang, Y.**, Zhang, X., He, J., Fu, W. [**Does Shoe Collar Height Influence Ankle Joint Kinematics and Kinetics in Sagittal Plane Maneuvers?**] J of Sports Sciences and Medicine, 2017.								
+Yang, Y., **Fang, Y.**, Zhang, X., He, J., Fu, W. [Does Shoe Collar Height Influence Ankle Joint Kinematics and Kinetics in Sagittal Plane Maneuvers?](https://drive.google.com/file/d/1g3isx7eU_dRzI4B6qdhH395C79-yfDEr/view?usp=sharing) J of Sports Sciences and Medicine, 2017.								
 
-Fu, W., **Fang, Y.**, Gu, Y., Huang, L., Li, L., Liu, Y. [**Shoe Cushioning Reduces Impact and Muscle Activation during Landings from Unexpected, but not Self-initiated Drops.**] J of Science and Medicine in Sport, 2017.								
+Fu, W., **Fang, Y.**, Gu, Y., Huang, L., Li, L., Liu, Y. [Shoe Cushioning Reduces Impact and Muscle Activation during Landings from Unexpected, but not Self-initiated Drops.](https://drive.google.com/file/d/1H4m51RX425Mn23Pc90lAwc_O-Dw9Gptl/view?usp=sharing) J of Science and Medicine in Sport, 2017.								
 
-**Fang, Y.**, Morse, L.R., Nguyen, N., Tsantes, N.G., Troy, K.L. [**Anthropometric and Biomechanical Characteristics of Body Segments in Persons with Spinal Cord Injury.**] J of Biomechanics, 2017.							
+**Fang, Y.**, Morse, L.R., Nguyen, N., Tsantes, N.G., Troy, K.L. [Anthropometric and Biomechanical Characteristics of Body Segments in Persons with Spinal Cord Injury.](https://drive.google.com/file/d/19KXZMypWCYessVHFEyQ38FKaDQ6M_xVk/view?usp=sharing) J of Biomechanics, 2017.							
 
-**Fang, Y.**, Fitzhugh, E., Crouter, S., Zhang, S. [**Effects of Workloads and Cadences on Frontal Plane Knee Biomechanics in Cycling.**] Medicine and Science in Sports and Exercise, 2016.							
+**Fang, Y.**, Fitzhugh, E., Crouter, S., Zhang, S. [Effects of Workloads and Cadences on Frontal Plane Knee Biomechanics in Cycling.](https://drive.google.com/file/d/1H18CByCVhN6TMXzxOHonDgnYqf3Pe0lU/view?usp=sharing) Medicine and Science in Sports and Exercise, 2016.							
 	
-Fu, W., **Fang, Y.**., Liu, M., Wang, L., Ren, S., Liu, Y. [**Surface Effects on In-shoe Plantar Pressure and Tibial Impact during Running.**] J of Sport and Health Science, 2015.							
+Fu, W., **Fang, Y.**., Liu, M., Wang, L., Ren, S., Liu, Y. [Surface Effects on In-shoe Plantar Pressure and Tibial Impact during Running.](https://drive.google.com/file/d/1DDCtyRD1jFefJOLdy0h7lh77Um-h61r5/view?usp=sharing) J of Sport and Health Science, 2015.							
 	
-Fu, W., **Fang, Y.**, Liu, Y. [**The Effect of High-Top and Low-Top Shoes on Ankle Inversion Kinematics and Muscle Activation in Landing on a Tilted Surface.**] J of Foot and Ankle Research, 2014.							
+Fu, W., **Fang, Y.**, Liu, Y. [The Effect of High-Top and Low-Top Shoes on Ankle Inversion Kinematics and Muscle Activation in Landing on a Tilted Surface.](https://drive.google.com/file/d/150S79QIR3t95ws7O9UHY-bFqwbUFtZvQ/view?usp=sharing) J of Foot and Ankle Research, 2014.							
 
-Fu, W., Liu, Y., **Fang, Y.** [**Research Advancements in Humanoid Compression Garments in Sports.**] International J of Advanced Robotic Systems, 2013.								
+Fu, W., Liu, Y., **Fang, Y.** [Research Advancements in Humanoid Compression Garments in Sports.](https://drive.google.com/file/d/1lKVthZkXByPrksLDTsy2Qer-zWh-turq/view?usp=sharing) International J of Advanced Robotic Systems, 2013.								
 
