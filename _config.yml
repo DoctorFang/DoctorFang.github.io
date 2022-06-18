@@ -18,7 +18,7 @@ navbar-links:
     - My Story: "aboutme"
     - CV: "061422_YF_CV.pdf"
   Research: 
-    - Rehabilitation: "currentProject"
+    - Rehabilitation: "rehab"
     - Orthopedics: "ortho"
     - Healthy Aging: "currentProject"
   Publications: "papers"
