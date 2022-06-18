@@ -6,9 +6,9 @@ share-img: /assets/img/boneCTandFE.png
 tags: [research, musculoskeletal modeling]
 ---
 
-## Vision
+## Goal
 
-We aim to understand the musculoskeletal system, 
+To understand, prevent, and recover from musculoskeletal problems, such as osteoporosis and ostearthritis. 
 
 
 ## Projects
