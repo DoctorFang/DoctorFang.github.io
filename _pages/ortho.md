@@ -8,7 +8,7 @@ tags: [musculoskeletal modeling, biomechanics]
 
 ## Goal
 
-To understand, prevent, and recover from musculoskeletal problems, including osteoporosis, ostearthritis, ACL ruptures, ankle sprains, and more.
+Use biomechanics, imaging, and modeling techniques to understand, prevent, and recover from musculoskeletal problems, including osteoporosis, ostearthritis, ACL ruptures, ankle sprains, and more.
 
 
 ## Projects
