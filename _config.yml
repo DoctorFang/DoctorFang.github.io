@@ -23,10 +23,10 @@ navbar-links:
     - Healthy Aging: "aging"
   Publications: "papers"
   Resources:
-    - Research: "currentProject"
-    - Academia: "currentProject"
-    - Climb: "currentProject"
-    - Others: "currentProject"
+    - Research: "researchresource"
+    - Academia: "academiaresource"
+    - Climb: "climbresource"
+    - Others: "otherresource"
     
 
 collections:
