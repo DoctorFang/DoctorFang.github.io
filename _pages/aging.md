@@ -8,7 +8,7 @@ tags: [strength, balance]
 
 ## Goal
 
-Identify biomechanical and physilogical changes throughout the aging process, and develop tools to help older population to maintain their strength and function.
+Identify biomechanical and physiological changes throughout the aging process. Develop interventions to help the elderly population maintaining strength and function.
 
 
 ## Projects

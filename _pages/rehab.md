@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Revolutionize Rehabilitation through Technology
+title: Revolutionize Rehabilitation using Technology
 thumbnail-img: /assets/img/boneCTandFE.png
 share-img: /assets/img/boneCTandFE.png
 tags: [current research, assistive device, biofeedback]
@@ -12,9 +12,12 @@ Developing and evaluating tools to make rehabilitation more effective and more f
 
 
 ## Projects
+**Biofeedback vs. ankle assistance on the incline** *(ongoing)*
 
-[**Ankle exoskeleton assistance**: mobility aid? gait training tool? or both?]()
+**Ankle exoskeleton in real world** *(ongoing)*
 
-[**What is Biofeedback and how can it be used in gait training?**]()
+[**Ankle exoskeleton assistance**: mobility aid? gait training tool? or both? *(completed)*]()
+
+[**What is Biofeedback and how can it be used in gait training?** *(completed)*]()
 
 
