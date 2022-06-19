@@ -22,13 +22,12 @@ navbar-links:
     - Orthopedics: "ortho"
     - Healthy Aging: "aging"
   Publications: "papers"
-  Notes:
-    - Career: "currentProject"
-    - Life: "currentProject"
   Resources:
-    - Science: "currentProject"
-    - Code: "currentProject"
+    - Research: "currentProject"
+    - Academia: "currentProject"
     - Climb: "currentProject"
+    - Others: "currentProject"
+    
 
 collections:
     pages:
