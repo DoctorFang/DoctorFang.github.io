@@ -6,7 +6,7 @@ share-img: /assets/img/boneCTandFE.png
 tags: [musculoskeletal modeling, biomechanics]
 ---
 
-## Latest Reseach
+## Latest Research
 
 
 
@@ -16,4 +16,4 @@ tags: [musculoskeletal modeling, biomechanics]
 
 
 
-## Useful and Interesting Links
+## Useful and Fun Stuff
