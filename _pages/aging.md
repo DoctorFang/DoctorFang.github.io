@@ -1,0 +1,22 @@
+---
+layout: post
+title: Keep Active and Balance as We Age
+thumbnail-img: /assets/img/boneCTandFE.png
+share-img: /assets/img/boneCTandFE.png
+tags: [strength, balance]
+---
+
+## Goal
+
+Identify biomechanical and physilogical changes throughout the aging process, and develop tools to help older population to maintain their strength and function.
+
+
+## Projects
+
+**Quantify balance using a perturbation system, and whether an exoskeleton would make older adults more or less stable.** *(ongoing)*
+
+[**The potential of functional resistance gait training for the elderly population** *(completed)*]()
+
+
+
+

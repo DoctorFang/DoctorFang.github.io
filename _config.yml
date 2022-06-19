@@ -20,7 +20,7 @@ navbar-links:
   Research: 
     - Rehabilitation: "rehab"
     - Orthopedics: "ortho"
-    - Healthy Aging: "currentProject"
+    - Healthy Aging: "aging"
   Publications: "papers"
   Notes:
     - Career: "currentProject"
