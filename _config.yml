@@ -57,7 +57,7 @@ social-network-links:
   email: "ying22107@gmail.com"
   rss: false  # remove this line if you don't want to show an RSS link at the bottom
   github: doctor-fang
-  twitter: daattali
+  # twitter: daattali
   #patreon: DeanAttali
   #youtube: c/daattali
 #  medium: yourname
