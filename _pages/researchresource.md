@@ -3,7 +3,7 @@ layout: post
 title: Resources for Science and Research
 thumbnail-img: /assets/img/boneCTandFE.png
 share-img: /assets/img/boneCTandFE.png
-tags: [musculoskeletal modeling, biomechanics]
+tags: [research, biomechanics, science]
 ---
 
 ## Code

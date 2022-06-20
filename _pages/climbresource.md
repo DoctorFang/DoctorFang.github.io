@@ -3,7 +3,7 @@ layout: post
 title: Climbing-Related Resources
 thumbnail-img: /assets/img/boneCTandFE.png
 share-img: /assets/img/boneCTandFE.png
-tags: [musculoskeletal modeling, biomechanics]
+tags: [climbing, performance, injury]
 ---
 
 ## Latest Research
