@@ -10,7 +10,7 @@ My name is Ying Fang. I grew up in Wuhu, China, and have spent the last 10ish ye
 - Free time passion: rock climbing!
 
 
-### Research
+## Research
 
 My research aims to understand and modify movements to help people improve performance, prevent injuries, and live an active and happy life.
 
@@ -19,7 +19,7 @@ This applies to those with disabilities, older adults, athletes, and the general
 
 
 
-### Academic Life
+## Academic Life
 
 I had a pretty winding path throughout my education/academic career.
 
@@ -31,7 +31,7 @@ At a very young age, being a professor/scientist was my top career choice. I'm a
 
 
 
-### Rock Climbing
+## Rock Climbing
 For me, rock climbing is an element that balances the (sometimes overwhelming) academic life, a way to know myself and push limits, and a medium to connect with nature and friends.
 
 I like to follow the latest research and apply them to improve my own climbing. My long term goal is to integrate my two biggest passions: *biomechanics* AND *climbing*, and be the one to offer knowledge to the climbing community!
