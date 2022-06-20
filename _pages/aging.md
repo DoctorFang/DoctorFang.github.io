@@ -3,6 +3,7 @@ layout: post
 title: Keep Active and Balance as We Age
 thumbnail-img: /assets/img/boneCTandFE.png
 share-img: /assets/img/boneCTandFE.png
+cover-img: /assets/img/BALANCE.PNG
 tags: [strength, balance]
 ---
 
