@@ -14,8 +14,8 @@ tags: [climbing, performance, injury]
 - [Long-term climbing on finger morphology](https://www.sciencedirect.com/science/article/pii/S1466853X21001528)
 
 ## Common Injuries and Rehab
-**Medial Wrist Pain (TFCC injury)**
-- [Causes, symptoms, assessments, rehab protocol](https://theclimbingdoctor.com/tfcc-injury-a-common-source-of-wrist-pain-in-climbers/)
+**Wrist**
+- [Medial wrist pain/TFCC injury](https://theclimbingdoctor.com/tfcc-injury-a-common-source-of-wrist-pain-in-climbers/)
 
 
 ## Training and Injury Prevention
