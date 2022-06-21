@@ -20,15 +20,16 @@ tags: [climbing, performance, injury]
 ## Training and Injury Prevention
 **Good Warm-ups**
 - [Dynamic warmup](https://www.youtube.com/watch?v=B86QxHCDiM0)
-Helpful, fast, and does not require equipment.
+: Helpful, fast, and does not require equipment.
 - [Warmup routine from Esther Smith](https://www.youtube.com/watch?v=0-hs8b6vXOA)
-Helpful and requires elastic band.
+: Helpful and requires elastic band.
 
 **Finger training**
 - [The "no-hang" protocol](https://gripped.com/indoor-climbing/a-staggeringly-successful-new-hangboard-routine/)
-Currently experimenting on myself.
+: Currently experimenting on myself.
 
 - [Beginner finger training program](https://www.trainingbeta.com/beginner-finger-training-program/#:~:text=This%20program%20is%20for%20climbers,unique%20finger%20workouts%20every%20week)
+
 Thoughts: definitely felt stronger after the 5-week (took me 6 weeks) program. Things to keep in mind:
 1. It's normal to have ups and downs;				
 2. Be aware of short rests between sets; lengthen it if needed;				
@@ -37,11 +38,11 @@ Thoughts: definitely felt stronger after the 5-week (took me 6 weeks) program. T
 5. Normal to feel weird or tired the next 1-2 days as long as there's no obvious acute event.		
 		
 **Injury prevention**
-- [injury prevention program](https://www.camp4humanperformance.com/blog-2/2021/12/16/c4hp-injury-prevention-program-ipp)
-Currently experimenting on myself.
+- [Injury prevention program](https://www.camp4humanperformance.com/blog-2/2021/12/16/c4hp-injury-prevention-program-ipp)
+: Currently experimenting on myself.
 
 - [Tension block](https://www.youtube.com/watch?v=IUOm2IHylpA)
-Safe way to rehab a finger injury.
+: A safe way to rehab a finger injury.
 
 ## Useful and Fun Stuff
 - [TrainingBeta Podcast](https://www.trainingbeta.com/trainingbeta-podcast/)
