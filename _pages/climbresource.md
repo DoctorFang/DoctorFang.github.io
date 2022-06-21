@@ -19,7 +19,7 @@ tags: [climbing, performance, injury]
 
 
 ## Training and Injury Prevention
-**Good Warm-ups**
+**Warmup**
 - [Dynamic warmup](https://www.youtube.com/watch?v=B86QxHCDiM0) : Helpful, fast, and does not require equipment.
 
 - [Warmup routine from Esther Smith](https://www.youtube.com/watch?v=0-hs8b6vXOA) : Helpful and requires elastic band.
