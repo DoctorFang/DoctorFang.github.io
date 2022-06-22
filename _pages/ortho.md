@@ -17,6 +17,6 @@ To understand, prevent, and recover from musculoskeletal problems, including ost
 
 [**Can FES-rowing prevent bone loss in Spinal Cord Injury** *(completed)*](https://doctorfang.github.io/2022-06-15-FES/)
 
-[**Cycling and knee osteoarthritis** *(completed)*](https://doctorfang.github.io/2022-06-15-FES/)
+[**Cycling and knee osteoarthritis** *(completed)*](https://doctorfang.github.io/2022-06-21-Cycling/)
 
 
