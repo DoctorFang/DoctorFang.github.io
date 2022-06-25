@@ -16,6 +16,6 @@ tags: [research, biomechanics, science]
 ## Latest Discoveries
 
 
-
-
 ## Remotely-related stuff
+
+[**Biomechanics On Our Minds (BOOM) podcast"](https://biomechanicsonourminds.com/?v=7516fd43adaa)
