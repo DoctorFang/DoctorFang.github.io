@@ -8,7 +8,7 @@ tags: [climbing, performance, injury]
 ---
 
 ## Latest Research
-- [The famous Keith Barr study that inspired the no-hang protocol](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5371618/)
+- [The Keith Barr study that inspired the no-hang protocol](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5371618/)
 - [Hangboard training RCT among non-pro climbers: control vs. hang endurance vs. hang weight](https://www.nature.com/articles/s41598-021-92898-2)
 - [Long-term climbing on shoulder morphology among high-level climbers](https://www.sciencedirect.com/science/article/pii/S105827462100077X)
 - [Long-term climbing on finger morphology](https://www.sciencedirect.com/science/article/pii/S1466853X21001528)
