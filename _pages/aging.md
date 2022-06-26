@@ -14,7 +14,7 @@ Identify biomechanical and physiological changes throughout the aging process. D
 
 ## Projects
 
-**Quantify balance using a perturbation system, and whether an exoskeleton would make older adults more or less stable.** *(ongoing)*
+**Quantify balance using a perturbation system, and whether an exoskeleton would make older adults more or less stable** *(ongoing)*
 
 [**The potential of functional resistance gait training for the elderly population** *(completed)*]()
 
