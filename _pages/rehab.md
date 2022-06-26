@@ -9,7 +9,7 @@ tags: [current research, assistive device, biofeedback]
 
 ## Goal
 
-Developing and evaluating tools to make rehabilitation more effective and more fun, and enpower people with disabilities to live more freely in our community.
+Developing and evaluating tools to make rehabilitation more effective and more fun, and empower people with disabilities to live more freely in our community.
 
 
 ## Projects
