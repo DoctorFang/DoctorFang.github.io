@@ -17,7 +17,7 @@ Developing and evaluating tools to make rehabilitation more effective and more f
 
 **Ankle exoskeleton in real world** *(ongoing)*
 
-[**Ankle exoskeleton assistance: mobility aid? gait training tool? or both?** *(completed)*](https://doctorfang.github.io/2022-06-25-Exo/)
+[**Ankle exoskeleton assistance: mobility aid? gait training tool? or both?** *(completed)*](https://doctorfang.github.io/2022-06-24-Exo/)
 
 [**What is Biofeedback and how can it be used in gait training?** *(completed)*](https://doctorfang.github.io/2022-06-25-BF/)
 

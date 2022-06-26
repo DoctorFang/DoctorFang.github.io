@@ -8,7 +8,7 @@ tags: [research, biomechanics, science]
 ---
 
 ## Code
-[**Inverse Kinematics and Inverse Dynamics based on MoCap and Force Plate**](https://drive.google.com/file/d/13-WRSKVX-oG58_ES0zjrrYBt8ljjJj_8/view?usp=sharing) to:
+[**Inverse Kinematics and Inverse Dynamics based on MoCap and Force Plate**](https://drive.google.com/file/d/13-WRSKVX-oG58_ES0zjrrYBt8ljjJj_8/view?usp=sharing)
 
 
 ## Tutorials
