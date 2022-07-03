@@ -4,7 +4,7 @@ title: Resources for Professional Development
 thumbnail-img: /assets/img/boneCTandFE.png
 share-img: /assets/img/boneCTandFE.png
 # cover-img: /assets/img/academic.jpg
-tags: [musculoskeletal modeling, biomechanics]
+tags: [grant, writing]
 ---
 
 ## Writing
@@ -16,6 +16,8 @@ tags: [musculoskeletal modeling, biomechanics]
 ## Job and Grant Application
 
 - [**Training in Grantsmanship for Rehabilitation Research (TIGRR)**](https://chp.musc.edu/research/tigrr)
+
+- [**NIH Grant Application and Award Timelines**](https://writedit.wordpress.com/nih-paylines-resources/nih-grant-application-award-timelines/)
 
 - **Job Talk**
 
