@@ -41,4 +41,4 @@ Explore the feasibility of using a dual-mode ankle exoskeleton for treating walk
 ## Resources
 
 ### Publication
-- Pilot evaluation of a dual-mode ankle exoskeleton to assist and restore community ambulation in older adults *(accepted)*
+- [Pilot evaluation of a dual-mode ankle exoskeleton to assist and restore community ambulation in older adults](https://drive.google.com/file/d/1lWTSmmUlP2-Tn_4OKCJIFxqlGcDL53AI/view?usp=sharing)
