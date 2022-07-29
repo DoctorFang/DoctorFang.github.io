@@ -15,6 +15,8 @@ tags: [grant, writing]
 
 ## Job and Grant Application
 
+- [**United States Bone and Joint Initiative (USBJI) Young Investigators Initiative Workshop**](https://usbji.org/programs/yii/schedule) 
+
 - [**Training in Grantsmanship for Rehabilitation Research (TIGRR)**](https://chp.musc.edu/research/tigrr)
 
 - [**NIH Grant Application and Award Timelines**](https://writedit.wordpress.com/nih-paylines-resources/nih-grant-application-award-timelines/)

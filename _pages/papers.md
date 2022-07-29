@@ -18,7 +18,7 @@ Bishe, S., Liebelt, L., **Fang, Y.**, Lerner, Z.F. [A Low-Profile Hip Exoskeleto
 
 Orekhov, G., **Fang, Y.**, Cuddeback, C.F., Lerner, Z.F. [Usability and Performance Validation of an Ultra-Light and Versatile Untethered Robotic Ankle Exoskeleton.](https://drive.google.com/file/d/1Y58loG_MK19yFpGKESRkim5jqwTw-5NZ/view?usp=sharing) J of NeuroEngineering and Rehabilitation.
 
-**Fang, Y.**, Lerner, Z.F. [Augmenting Ankle Exoskeleton Walking Performance with Step Length Biofeedback in Individuals with Cerebral Palsy.](https://drive.google.com/file/d/1Zraae-zH1Qda3tR6w1-pRY3J48kzaBhA/view?usp=sharing) IEEE Transactions on Neural Systems and Rehabilitation Engineering.
+**Fang, Y.**, Lerner, Z.F. [Augmenting Ankle Exoskeleton Walking Performance with Step Length Biofeedback in Individuals with Cerebral Palsy.](https://drive.google.com/file/d/1czucb9wJCD5RnXrYL4NefYou7Mltb2Pd/view?usp=sharing) IEEE Transactions on Neural Systems and Rehabilitation Engineering.
 
 Bishe, S., Nguyen, T., **Fang, Y.**, Orekhov, G., Lerner, Z.F. [Adaptive Ankle Exoskeleton Control: Validation Across Diverse Walking Conditions.](https://drive.google.com/file/d/1_Nr6Le4ig-JOtA_e6J4H9-pXo7ypPf77/view?usp=sharing) IEEE Transactions on Medical Robotics and Bionics.
 
