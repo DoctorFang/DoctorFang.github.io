@@ -17,7 +17,8 @@ tags: [climbing, performance, injury]
 **Wrist**
 - [Medial wrist pain/TFCC injury](https://theclimbingdoctor.com/tfcc-injury-a-common-source-of-wrist-pain-in-climbers/)
 
-
+**Knee**
+-[MCL Sprain](https://drive.google.com/file/d/1u2UhO_jkI5y17dDsMjpDJqZih_Hp-cvM/view?usp=sharing)
 ## Training and Injury Prevention
 **Warmup**
 - [Dynamic warmup](https://www.youtube.com/watch?v=B86QxHCDiM0) : Helpful, fast, and does not require equipment.
