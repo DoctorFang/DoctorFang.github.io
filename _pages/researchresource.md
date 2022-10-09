@@ -15,6 +15,9 @@ tags: [research, biomechanics, science]
 - **Bonferroni Correction and Holm Method**
 {% include youtubePlayer.html id='a9RrgrbsA7k' %}
 
+- **Repeated Measures ANOVA Pairwise Comparison**
+{% include youtubePlayer.html id='PqidGK-XlFU' %}
+
 
 ## Latest Discoveries
 
