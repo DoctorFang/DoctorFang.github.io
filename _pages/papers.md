@@ -4,7 +4,7 @@ title: Publications
 ---
 ## 2022
 
-**Fang, Y.**, Hashe, K., Franz, J., Lerner, Z.F. [Pilot evaluation of a dual-mode ankle exoskeleton to assist and restore community ambulation in older adults.](https://drive.google.com/file/d/1lWTSmmUlP2-Tn_4OKCJIFxqlGcDL53AI/view?usp=sharing) Wearable Technologies.
+**Fang, Y.**, Hashe, K., Franz, J., Lerner, Z.F. [Feasibility evaluation of a dual-mode ankle exoskeleton to assist and restore community ambulation in older adults.](https://drive.google.com/file/d/1lWTSmmUlP2-Tn_4OKCJIFxqlGcDL53AI/view?usp=sharing) Wearable Technologies.
 
 **Fang, Y.**, Lerner, Z.F. How Ankle Exoskeleton Assistance Affects the Mechanics of Incline Walking and Stair Ascent in Cerebral Palsy. IEEE International Conference on Rehabilitation Robotics.
 
