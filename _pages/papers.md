@@ -5,23 +5,23 @@ title: Publications
 
 ## 2024
 
-**Fang, Y.**, Lerner, Z.F. Effects of ankle exoskeleton assistance and plantar pressure biofeedback on incline walking mechanics and muscle activity in cerebral palsy. Journal of Biomechanics.
+**Fang, Y.**, Lerner, Z.F. [Effects of ankle exoskeleton assistance and plantar pressure biofeedback on incline walking mechanics and muscle activity in cerebral palsy.](https://drive.google.com/file/d/1aP6fepeVUx0rSyZmAx6Az1HLKh6HjFIb/view?usp=drive_link) Journal of Biomechanics.
 
 ## 2023
 
-**Fang, Y.**, Lerner, Z.F. How Adaptive Ankle Exoskeleton Assistance Affects Stability During Perturbed and Unperturbed Walking in the Elderly. Annals of Biomedical Engineering.
+**Fang, Y.**, Lerner, Z.F. [How Adaptive Ankle Exoskeleton Assistance Affects Stability During Perturbed and Unperturbed Walking in the Elderly.](https://drive.google.com/file/d/1BfIEV_HIqjDA4f_R7v9UdnStwzdL7osx/view?usp=sharing) Annals of Biomedical Engineering.
 
-Tagoe, E.A., **Fang, Y.**, Williams, J.R., Lerner, Z.F. Walking on Real-world Terrain with an Ankle Exoskeleton in Cerebral Palsy. IEEE Transactions on Medical Robotics and Bionics.
+Tagoe, E.A., **Fang, Y.**, Williams, J.R., Lerner, Z.F. [Walking on Real-world Terrain with an Ankle Exoskeleton in Cerebral Palsy.](https://drive.google.com/file/d/1BnwDrqI7H0b5HLoILjjTP_K6iPe2Nzw2/view?usp=sharing) IEEE Transactions on Medical Robotics and Bionics.
 
 Mazur, C.M., Edwards, W.B., Haider, I.T., **Fang, Y.**, Morse, L.R., Schnitzer, T.J., Simonian, N., Troy, K.L. Bone mineral loss at the distal femur and proximal tibia following spinal cord injury in men and women. Journal of Clinical Densitometry
 
 ## 2022
 
-Conner, B.C., **Fang, Y.**, Lerner, Z.F. Under Pressure: Design and Validation of a Pressure-Sensitive Insole for Ankle Plantar Flexion Biofeedback during Neuromuscular Gait Training. Journal of NeuroEngineering and Rehabilitation.
+Conner, B.C., **Fang, Y.**, Lerner, Z.F. [Under Pressure: Design and Validation of a Pressure-Sensitive Insole for Ankle Plantar Flexion Biofeedback during Neuromuscular Gait Training.](https://drive.google.com/file/d/1odwF1ChSJp8Ot-zn4MDsMwOVOF4CV5mJ/view?usp=sharing) Journal of NeuroEngineering and Rehabilitation.
 
 **Fang, Y.**, Hashe, K., Franz, J., Lerner, Z.F. [Feasibility evaluation of a dual-mode ankle exoskeleton to assist and restore community ambulation in older adults.](https://drive.google.com/file/d/1lWTSmmUlP2-Tn_4OKCJIFxqlGcDL53AI/view?usp=sharing) Wearable Technologies.
 
-**Fang, Y.**, Lerner, Z.F. How Ankle Exoskeleton Assistance Affects the Mechanics of Incline Walking and Stair Ascent in Cerebral Palsy. IEEE International Conference on Rehabilitation Robotics.
+**Fang, Y.**, Lerner, Z.F. [How Ankle Exoskeleton Assistance Affects the Mechanics of Incline Walking and Stair Ascent in Cerebral Palsy.](https://drive.google.com/file/d/1XSyoxy44Co25YINE28Ntq5tpxMX6-CDC/view?usp=sharing) IEEE International Conference on Rehabilitation Robotics.
 
 Bishe, S., Liebelt, L., **Fang, Y.**, Lerner, Z.F. [A Low-Profile Hip Exoskeleton for Pathological Gait Assistance: Design and Pilot Testing.](https://drive.google.com/file/d/1FkobaqFuHBXojzFfWk-vWWx8LJJHdk0T/view?usp=sharing) IEEE International Conference on Robotics and Automation.
 
