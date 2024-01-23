@@ -25,8 +25,8 @@ tags: [climbing, performance, injury]
 
 - [Dynamic warmup](https://www.youtube.com/watch?v=B86QxHCDiM0) 
 
-- [The "no-hang" protocol](https://gripped.com/indoor-climbing/a-staggeringly-successful-new-hangboard-routine/) : Currently experimenting on myself.
+- [The "no-hang" protocol](https://gripped.com/indoor-climbing/a-staggeringly-successful-new-hangboard-routine/)
 
-- [Injury prevention program](https://www.camp4humanperformance.com/blog-2/2021/12/16/c4hp-injury-prevention-program-ipp) : Currently experimenting on myself.
+- [Injury prevention program](https://www.camp4humanperformance.com/blog-2/2021/12/16/c4hp-injury-prevention-program-ipp)
 
 - [Tension block](https://www.youtube.com/watch?v=IUOm2IHylpA) 
