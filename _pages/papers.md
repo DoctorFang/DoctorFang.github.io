@@ -13,7 +13,7 @@ title: Publications
 
 Tagoe, E.A., **Fang, Y.**, Williams, J.R., Lerner, Z.F. [Walking on Real-world Terrain with an Ankle Exoskeleton in Cerebral Palsy.](https://drive.google.com/file/d/1BnwDrqI7H0b5HLoILjjTP_K6iPe2Nzw2/view?usp=sharing) IEEE Transactions on Medical Robotics and Bionics.
 
-Mazur, C.M., Edwards, W.B., Haider, I.T., **Fang, Y.**, Morse, L.R., Schnitzer, T.J., Simonian, N., Troy, K.L. Bone mineral loss at the distal femur and proximal tibia following spinal cord injury in men and women. Journal of Clinical Densitometry
+Mazur, C.M., Edwards, W.B., Haider, I.T., **Fang, Y.**, Morse, L.R., Schnitzer, T.J., Simonian, N., Troy, K.L. [Bone mineral loss at the distal femur and proximal tibia following spinal cord injury in men and women.](https://drive.google.com/file/d/1k8tpbfHe8zhciJ3E_p9IJ6ueIGRhksCv/view?usp=sharing) Journal of Clinical Densitometry
 
 ## 2022
 
