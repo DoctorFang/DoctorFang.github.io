@@ -3,9 +3,15 @@ layout: page
 title: Publications
 ---
 
+## 2025
+**Fang, Y.**, Troy, K.L. [Effect of Adapted Ergometer Setup and Rowing Speed on Lower Extremity Loading in People with and Without Spinal Cord Injury.](https://drive.google.com/file/d/1YTxv756LQgoxJ46N2lrY065vdr7maHjr/view?usp=sharing) Bioengineering.
+
 ## 2024
 
 **Fang, Y.**, Lerner, Z.F. [Effects of ankle exoskeleton assistance and plantar pressure biofeedback on incline walking mechanics and muscle activity in cerebral palsy.](https://drive.google.com/file/d/1aP6fepeVUx0rSyZmAx6Az1HLKh6HjFIb/view?usp=drive_link) Journal of Biomechanics.
+
+Tagoe, E.A., **Fang, Y.**, Williams, J.R., Stone, J.L., Lerner, Z.F. [Exoskeleton gait training on real-world terrain improves spatiotemporal performance in cerebral palsy.](https://drive.google.com/file/d/1oDj7tXPGQsOuJrBtvayND_UbTqZh47OD/view?usp=sharing) Frontiers in Bioengineering and Biotechnology.
+
 
 ## 2023
 
