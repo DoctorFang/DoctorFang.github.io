@@ -20,3 +20,7 @@ tags: [grant, writing]
 - [**Training in Grantsmanship for Rehabilitation Research (TIGRR)**](https://chp.musc.edu/research/tigrr)
 
 - [**NIH Grant Application and Award Timelines**](https://writedit.wordpress.com/nih-paylines-resources/nih-grant-application-award-timelines/)
+
+## Faculty Life
+
+- [**Seven-year postdoc**](https://www.scientificamerican.com/blog/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/)

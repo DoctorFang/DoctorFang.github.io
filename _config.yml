@@ -17,14 +17,15 @@ navbar-links:
   My Story: "aboutme"
   CV: "CV_YF.pdf"
   Research: 
-    - Rehabilitation: "rehab"
-    - Orthopedics: "ortho"
     - Healthy Aging: "aging"
+    - Orthopedics: "ortho"
+    - Rehabilitation: "rehab"
+    - Climbing: "climb"
   Publications: "papers"
   Resources:
     - Research: "researchresource"
     - Academia: "academiaresource"
-    - Climb: "climbresource"
+    # - Climb: "climbresource"
     # - Others: "otherresource"
     
 

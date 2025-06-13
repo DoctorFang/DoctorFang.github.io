@@ -17,8 +17,3 @@ tags: [research, biomechanics, science]
 
 - **Repeated Measures ANOVA Pairwise Comparison**
 {% include youtubePlayer.html id='PqidGK-XlFU' %}
-
-
-## Remotely-related stuff
-
-- [**Biomechanics On Our Minds (BOOM) podcast**](https://biomechanicsonourminds.com/?v=7516fd43adaa)
