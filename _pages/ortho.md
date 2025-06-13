@@ -15,6 +15,8 @@ To understand, prevent, and recover from musculoskeletal problems, including ost
 ## Projects
 **Does walking with an assistive device change joint loading in people with Cerebral Palsy?** *(ongoing)*
 
+[**How is the knee joint loaded during FES-rowing?** *(completed)*](https://drive.google.com/file/d/1YTxv756LQgoxJ46N2lrY065vdr7maHjr/view?usp=sharing)
+
 [**Can FES-rowing prevent bone loss in Spinal Cord Injury** *(completed)*](https://doctorfang.github.io/2022-06-15-FES/)
 
 [**Cycling and knee osteoarthritis** *(completed)*](https://doctorfang.github.io/2022-06-21-Cycling/)

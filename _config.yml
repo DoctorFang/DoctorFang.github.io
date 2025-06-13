@@ -14,9 +14,8 @@ author: Ying Fang
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me:
-    - My Story: "aboutme"
-    - CV: "CV_YF.pdf"
+  My Story: "aboutme"
+  CV: "CV_YF.pdf"
   Research: 
     - Rehabilitation: "rehab"
     - Orthopedics: "ortho"
