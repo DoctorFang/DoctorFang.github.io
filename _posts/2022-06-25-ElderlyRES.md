@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ankle Assistance and Resistance in Older Adults
+title: Assistive Technology for Healthy Aging
 thumbnail-img: /assets/img/elderly_small.png
 share-img: /assets/img/elderly_small.png
 
@@ -18,27 +18,15 @@ Lower-limb exoskeleton assistance targeting the ankle joint may hold potential f
 
 <!--more-->
 
-After demonstrating the success of ankle assistance and resistance in populations with neurological conditions. This feasibility study tested on six elderly participants ages 68-83.
 {% include youtubePlayer.html id='VNISjfCxPIg' %}
 
 ## Purpose
-Explore the feasibility of using a dual-mode ankle exoskeleton for treating walking disability in the elderly; testing the device in assistance mode as a mobility aid to reduce energy consumption, and as a resistive gait training tool to facilitate functional recruitment of the plantar flexor muscles. 
+Explore the feasibility of using a dual-mode ankle exoskeleton for treating walking impairment in the elderly; testing the device in assistance mode as a mobility aid to reduce energy consumption, and as a resistive gait training tool to facilitate functional recruitment of the plantar flexor muscles. We also tested device safety by investigating its effect on stability.
 
-
-## Findings
-
-1. Four of five participants exhibited a reduction (up to 19%) in metabolic power during walking with assistance relative to baseline, but there was no group group-level change. Participants who had greater baseline metabolic power exhibited a greater reduction during walking with assistance.
-
-2. Walking with resistance increased both soleus activity (18 – 186%) and ankle power (9 – 88%). Following 12-session ankle resistance gait training, the participant exhibited increased self-selected and fast walking speed, as well as plantar flexor strength.
-
-## Future directions
-
-1. Revise current device to allow for home-based training.
-
-2. Conduct longer term training on more participants.
-
-
-## Resources
-
-### Publication
+## Output
 - [Pilot evaluation of a dual-mode ankle exoskeleton to assist and restore community ambulation in older adults](https://drive.google.com/file/d/1lWTSmmUlP2-Tn_4OKCJIFxqlGcDL53AI/view?usp=sharing)
+- [Ankle Exoskeleton Resistance Training May Improve Older Adult Plantarflexor Strength and Mobility: A Pilot Evaluation](https://drive.google.com/file/d/1gvhpgqG57q9E1CgpTzbzfDb-ZyiqJiWX/view?usp=sharing)
+- [How Adaptive Ankle Exoskeleton Assistance Affects Stability During Perturbed and Unperturbed Walking in the Elderly.](https://drive.google.com/file/d/1BfIEV_HIqjDA4f_R7v9UdnStwzdL7osx/view?usp=sharing)
+
+
+
