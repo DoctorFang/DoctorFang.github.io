@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 ---
+
 ## 2026
 
 **Fang, Y.**, Steele, K. M., Lerner, Z.F. [Ankle Exoskeleton Assistance Reduces Knee Contact Force during Walking in Individuals with Cerebral Palsy.](https://drive.google.com/file/d/1aaA4kphZLwhyiEFqkHVxcYpQ4iMaO9x7/view?usp=sharing) IEEE Transactions on Neural Systems and Rehabilitation Engineering.
