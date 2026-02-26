@@ -11,7 +11,7 @@ title: Publications
 
 Williams, J. R., Hylin, J. C., **Fang, Y.**, & Lerner, Z. F. [Ankle Exoskeleton Resistance Training May Improve Older Adult Plantarflexor Strength and Mobility: A Pilot Evaluation.](https://drive.google.com/file/d/1gvhpgqG57q9E1CgpTzbzfDb-ZyiqJiWX/view?usp=sharing) Journal of Biomechanics
 
-Harshe, K., **Fang, Y.**, & Lerner, Z. F. [Should Ankle Exoskeletons Also Provide Assistance During Swing Phase?] (https://drive.google.com/file/d/194HTPJempeFirC4v3w8Z-FY44A9ttFpK/view?usp=sharing) IEEE International Conference On Rehabilitation Robotics.
+Harshe, K., **Fang, Y.**, & Lerner, Z. F. [Should Ankle Exoskeletons Also Provide Assistance During Swing Phase?](https://drive.google.com/file/d/194HTPJempeFirC4v3w8Z-FY44A9ttFpK/view?usp=sharing) IEEE International Conference On Rehabilitation Robotics.
 
 **Fang, Y.**, Troy, K.L. [Effect of Adapted Ergometer Setup and Rowing Speed on Lower Extremity Loading in People with and Without Spinal Cord Injury.](https://drive.google.com/file/d/1YTxv756LQgoxJ46N2lrY065vdr7maHjr/view?usp=sharing) Bioengineering.
 
