@@ -2,8 +2,16 @@
 layout: page
 title: Publications
 ---
+## 2026
+
+**Fang, Y.**, Steele, K. M., Lerner, Z.F. [Ankle Exoskeleton Assistance Reduces Knee Contact Force during Walking in Individuals with Cerebral Palsy.](https://drive.google.com/file/d/1aaA4kphZLwhyiEFqkHVxcYpQ4iMaO9x7/view?usp=sharing) IEEE Transactions on Neural Systems and Rehabilitation Engineering.
 
 ## 2025
+
+Williams, J. R., Hylin, J. C., **Fang, Y.**, & Lerner, Z. F. [Ankle Exoskeleton Resistance Training May Improve Older Adult Plantarflexor Strength and Mobility: A Pilot Evaluation.](https://drive.google.com/file/d/1gvhpgqG57q9E1CgpTzbzfDb-ZyiqJiWX/view?usp=sharing) Journal of Biomechanics
+
+Harshe, K., **Fang, Y.**, & Lerner, Z. F. [Should Ankle Exoskeletons Also Provide Assistance During Swing Phase?] (https://drive.google.com/file/d/194HTPJempeFirC4v3w8Z-FY44A9ttFpK/view?usp=sharing) IEEE International Conference On Rehabilitation Robotics.
+
 **Fang, Y.**, Troy, K.L. [Effect of Adapted Ergometer Setup and Rowing Speed on Lower Extremity Loading in People with and Without Spinal Cord Injury.](https://drive.google.com/file/d/1YTxv756LQgoxJ46N2lrY065vdr7maHjr/view?usp=sharing) Bioengineering.
 
 ## 2024
@@ -11,7 +19,6 @@ title: Publications
 **Fang, Y.**, Lerner, Z.F. [Effects of ankle exoskeleton assistance and plantar pressure biofeedback on incline walking mechanics and muscle activity in cerebral palsy.](https://drive.google.com/file/d/1aP6fepeVUx0rSyZmAx6Az1HLKh6HjFIb/view?usp=drive_link) Journal of Biomechanics.
 
 Tagoe, E.A., **Fang, Y.**, Williams, J.R., Stone, J.L., Lerner, Z.F. [Exoskeleton gait training on real-world terrain improves spatiotemporal performance in cerebral palsy.](https://drive.google.com/file/d/1oDj7tXPGQsOuJrBtvayND_UbTqZh47OD/view?usp=sharing) Frontiers in Bioengineering and Biotechnology.
-
 
 ## 2023
 
@@ -46,8 +53,6 @@ Bishe, S., Nguyen, T., **Fang, Y.**, Orekhov, G., Lerner, Z.F. [Adaptive Ankle E
 Deng, L., Yang, Y., Yang, C., **Fang, Y.**, Zhang, X., Liu, L., Fu, W. [Compression Garments Reduce Soft Tissue Vibrations and Muscle Activations during Drop Jumps: An Accelerometry Evaluation.](https://drive.google.com/file/d/1Zraae-zH1Qda3tR6w1-pRY3J48kzaBhA/view?usp=sharing) Sensors.
 
 **Fang, Y.**, Morse, L.R., Nguyen, N., Battaglino, R.A., Goldstein, R., Troy, K.L. [Functional Electrical Stimulation (FES) Assisted Rowing Combined with Zoledronic Acid, but Not Alone, Preserves Distal Femur Strength and Stiffness in People with Chronic Spinal Cord Injury.](https://drive.google.com/file/d/12Np8t_3UADia5gEpQ_0sNO3GvD7fLEUa/view?usp=sharing) Osteoporosis International.
-
-**Fang, Y.**, Troy, K.L. [Effect of Adapted Ergometer Setup and Rowing Speed on Lower Extremity Loading in People with and without Spinal Cord Injury.](https://drive.google.com/file/d/1MK8jL9epdITQzy4WEnQGa1uyShb0lG1K/view?usp=sharing) medRxiv (non-peer reviewed).
 
 ## 2020
 
