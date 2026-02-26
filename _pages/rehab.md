@@ -14,7 +14,7 @@ Developing and evaluating tools to make rehabilitation more effective and more f
 
 ## Projects
 
-[**Markerless motion capture for clinical test**](https://drive.google.com/file/d/1E9W04o4Ty0pVji5h1VFAudbY18Qk1zDN/view?usp=sharing)
+[**Markerless motion capture for a clinical test**](https://drive.google.com/file/d/1E9W04o4Ty0pVji5h1VFAudbY18Qk1zDN/view?usp=sharing)
 
 [**Biofeedback vs. ankle assistance on the incline**](https://drive.google.com/file/d/1aP6fepeVUx0rSyZmAx6Az1HLKh6HjFIb/view?usp=drive_link)
 
