@@ -14,7 +14,7 @@ Some side quests...
 
 ## Projects
 
-[**Risk factors for finger injuries** *(completed)*](https://drive.google.com/file/d/1qHG6KoJU51Kibf5U0Lzhem4UHYDbzUTO/view?usp=sharing)
+[**Risk factors for finger injuries**](https://drive.google.com/file/d/1qHG6KoJU51Kibf5U0Lzhem4UHYDbzUTO/view?usp=sharing)
 
 
 

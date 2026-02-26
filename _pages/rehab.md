@@ -13,12 +13,17 @@ Developing and evaluating tools to make rehabilitation more effective and more f
 
 
 ## Projects
-[**Biofeedback vs. ankle assistance on the incline** *(completed)*](https://drive.google.com/file/d/1aP6fepeVUx0rSyZmAx6Az1HLKh6HjFIb/view?usp=drive_link)
 
-[**Ankle exoskeleton in real world** *(completed)*](https://drive.google.com/file/d/1oDj7tXPGQsOuJrBtvayND_UbTqZh47OD/view?usp=sharing)
+[**Biofeedback for ankle-foot orthoses users**](https://drive.google.com/file/d/1Jq44WtyU-_q7co4NN9t_dAO7-NtwFa7F/view?usp=sharing)
 
-[**Ankle exoskeleton assistance: mobility aid? gait training tool? or both?** *(completed)*](https://doctorfang.github.io/2022-06-24-Exo/)
+[**Markerless motion capture for clinical test**](https://drive.google.com/file/d/1E9W04o4Ty0pVji5h1VFAudbY18Qk1zDN/view?usp=sharing)
 
-[**What is Biofeedback and how can it be used in gait training?** *(completed)*](https://doctorfang.github.io/2022-06-25-BF/)
+[**Biofeedback vs. ankle assistance on the incline**](https://drive.google.com/file/d/1aP6fepeVUx0rSyZmAx6Az1HLKh6HjFIb/view?usp=drive_link)
+
+[**Ankle exoskeleton in real world**](https://drive.google.com/file/d/1oDj7tXPGQsOuJrBtvayND_UbTqZh47OD/view?usp=sharing)
+
+[**Ankle exoskeleton assistance: mobility aid? gait training tool? or both?**](https://doctorfang.github.io/2022-06-24-Exo/)
+
+[**What is Biofeedback and how can it be used in gait training?**](https://doctorfang.github.io/2022-06-25-BF/)
 
 

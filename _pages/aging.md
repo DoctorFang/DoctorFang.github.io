@@ -14,9 +14,11 @@ Identify biomechanical and physiological changes throughout the aging process. D
 
 ## Projects
 
-[**Quantify balance using a perturbation system, and whether an exoskeleton would make older adults more or less stable** *(completed)*](https://drive.google.com/file/d/1BfIEV_HIqjDA4f_R7v9UdnStwzdL7osx/view?usp=sharing)
+**Personalized perturbation to address fear of falling** *(ongoing)*
 
-[**The potential of functional resistance gait training for the elderly population** *(completed)*](https://doctorfang.github.io/2022-06-25-ElderlyRES/)
+[**Quantify balance using a perturbation system, and whether an exoskeleton would make older adults more or less stable**](https://drive.google.com/file/d/1BfIEV_HIqjDA4f_R7v9UdnStwzdL7osx/view?usp=sharing)
+
+[**The potential of functional resistance gait training for the elderly population**](https://doctorfang.github.io/2022-06-25-ElderlyRES/)
 
 
 
