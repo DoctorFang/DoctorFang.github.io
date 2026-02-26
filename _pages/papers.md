@@ -59,7 +59,7 @@ Deng, L., Yang, Y., Yang, C., **Fang, Y.**, Zhang, X., Liu, L., Fu, W. [Compress
 
 **Fang, Y.**, Orekhov, G., Lerner, Z.F. [Adaptive Ankle Exoskeleton Gait Training Demonstrates Acute Neuromuscular and Spatiotemporal Benefits for Individuals with Cerebral Palsy.](https://drive.google.com/file/d/1eXigMNTdMOHbyOg6BE7nQpmf-Zk2a7hJ/view?usp=sharing) Gait & Posture.
 
-Orekhov, G., **Fang, Y.**, Luque, J. Lerner, Z.F. [Ankle Exoskeleton Assistance Can Improve Over-Ground Walking Economy in Individuals With Cerebral Palsy.](https://drive.google.com/file/d/1eXigMNTdMOHbyOg6BE7nQpmf-Zk2a7hJ/view?usp=sharing) IEEE Transactions on Neural Systems and Rehabilitation Engineering.
+Orekhov, G., **Fang, Y.**, Luque, J. Lerner, Z.F. [Ankle Exoskeleton Assistance Can Improve Over-Ground Walking Economy in Individuals With Cerebral Palsy.](https://drive.google.com/file/d/1_iKlmVPjy3-HZ3v2g3SyKDFyke6SX9zE/view?usp=sharing) IEEE Transactions on Neural Systems and Rehabilitation Engineering.
 
 ## 2013 ~ 2019
 
